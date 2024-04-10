@@ -1,0 +1,9 @@
+{
+  "module": {
+    "name": "exception_handler",
+    "type": "har",
+    "deviceTypes": [
+      "default"
+    ]
+  }
+}

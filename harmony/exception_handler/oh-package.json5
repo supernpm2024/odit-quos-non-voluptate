@@ -1,0 +1,13 @@
+{
+  "license": "ISC",
+  "types": "",
+  "devDependencies": {
+  },
+  "name": "@react-native-oh-tpl/react-native-exception-handler",
+  "description": "",
+  "main": "index.ets",
+  "version": "2.10.10-0.1.4",
+  "dependencies": {
+    "rnoh": "file:../rnoh"
+  }
+}
